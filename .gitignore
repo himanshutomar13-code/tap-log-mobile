@@ -1,0 +1,21 @@
+# FlutterDart
+.dart_tool
+.packages
+.pub-cache
+.pub
+
+# Build outputs
+build
+androidapprelease
+androidappdebug
+iosPods
+
+# OS & IDE
+.DS_Store
+.idea
+.vscode
+.iml
+
+# Generated
+flutter_export_environment.sh
+Generated.xcconfig

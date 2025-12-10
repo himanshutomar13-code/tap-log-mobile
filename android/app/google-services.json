@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521964153236",
+    "project_id": "tap-log-56fdc",
+    "storage_bucket": "tap-log-56fdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521964153236:android:73bd4b7ba51beb065f8781",
+        "android_client_info": {
+          "package_name": "com.example.tap_log_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsRLKZGk7-zDQoTJJlgPpfK8M5jprGRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
